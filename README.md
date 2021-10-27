@@ -9,11 +9,11 @@
 > HI , i'm Abu Riad, a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 :man_technologist: languages and tools
-- ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/javascript.png)
-- ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/react.png)
-- ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/html.png)
-- ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/firebase.png)
-- ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/git.png)
+> ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/javascript.png)
+> ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/react.png)
+> ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/html.png)
+> ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/firebase.png)
+> ![This is an image](https://github.com/Farjana-Fariha/images/blob/main/git.png)
 
 
 
