@@ -12,7 +12,7 @@
 ##
 SKILL & PROJECTS
 - [x] html & css Template working on 2019 to till
-- [x] Completed 10+ Projects :muscle:		
+- [x] Completed 20+ Projects :muscle:		
 - [x] started javascript in 2021 :star_struck:
  	
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
