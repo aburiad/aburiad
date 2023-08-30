@@ -32,7 +32,7 @@ SKILL & PROJECTS
 💬 Ask me about new idea in web, i am happy to help
 
 ## Message Me
-[facebook](https://www.facebook.com/ahsanriad.engineer/)
+[Facebook](https://www.facebook.com/ahsanriad.engineer/)
 
  
 <!---
