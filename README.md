@@ -29,7 +29,7 @@ SKILL & PROJECTS
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=aburiad&show_icons=true&theme=dracula)
 
 ##
-💬 ask me about new idea in web, i am happy to help
+💬 Ask me about new idea in web, i am happy to help
 
 ## Message Me
 [facebook](https://www.facebook.com/ahsanriad.engineer/)
