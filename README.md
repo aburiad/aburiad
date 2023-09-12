@@ -11,7 +11,7 @@
 
 ##
 SKILL & PROJECTS
-- ✒️ Html & css Template working on 2019 to till
+- ✒️ Html & Css Template working on 2019 to till
 - ✒️ Completed 20+ Projects :muscle:		
 - ✒️ Started javascript in 2021 :star_struck:
  	
