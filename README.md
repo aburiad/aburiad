@@ -11,9 +11,9 @@
 
 ##
 SKILL & PROJECTS
-- ✒️ html & css template working on 2019 to till
-- ✒️ completed 20+ Projects :muscle:		
-- ✒️ started javascript in 2021 :star_struck:
+- ✒️ SITE TEMPLATE WORKING ON THEMEFOREST MARKET 2020 TO TILL NOW
+- ✒️ 35+ PROJECT DONE :muscle:		
+- ✒️ JAVASCRIPT REACT EXPLORING :star_struck: 
  	
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
