@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+i+am+Abu+Riad;Available+for+Freelance+Hire!)](https://git.io/typing-svg)
-## 👋 Hi there, nice to meet you. *I'm Abu Riad*. Welcome to my GitHub!
+👋 Hi there, nice to meet you. *I'm Abu Riad*. Welcome to my GitHub!
 ### ⚡ Quick Facts
 - :zero: Student and developer living in the Dhaka Bangladesh.
 - :one: Created Awesome Web Application using latest technologies javascript.
