@@ -2,7 +2,7 @@
 ## 👋 Hi there, nice to meet you. *I'm Abu Riad*. Welcome to my GitHub!
 ### ⚡ Quick Facts
 - :zero: Student and developer living in the Dhaka Bangladesh.
-- :one: Created Awesome Web Application using latest technologies javascript.
+- :one: Created Awesome Web Application using latest technologies.
 - :two: Currently working on **DIGO APPLICATION**
 - :three: I’m currently learning Upcoming JS Features :blue_heart:
 
