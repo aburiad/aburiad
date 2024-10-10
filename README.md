@@ -12,7 +12,7 @@
 ##
 SKILL & PROJECTS
 - ✒️ SITE TEMPLATE WORKING ON THEMEFOREST MARKET 2020 TO TILL NOW
-- ✒️ 35+ PROJECT DONE :muscle:		
+- ✒️ 40+ PROJECT DONE :muscle:		
 - ✒️ JAVASCRIPT REACT EXPLORING :star_struck:
 - ✒️ WORDPRESS EXPLORING :star_struck:  
  	
@@ -30,7 +30,7 @@ SKILL & PROJECTS
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=aburiad&show_icons=true&theme=dracula)
 
 ##
-💬 Ask me about new idea in web, I am happy to help
+💬 Ask me about new idea in web development, I am happy to help
 
 ## Message Me
 [Facebook](https://www.facebook.com/ahsanriad.engineer/)
