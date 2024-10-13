@@ -10,7 +10,7 @@
 
 💼 **Profession:** Front-end developer with over 3 years of experience, currently expanding into back-end development.
 
-🚀 **Current:** Projects: Developing custom WordPress plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
+🚀 **Current:** Projects: Developing custom WordPress plugin, including the **Popup-Notification-wp-plugin**.
 
 🛠️ **Skills:** Proficient in HTML, CSS, JavaScript, Sass, React, and gaining expertise in PHP and WordPress development.
 
