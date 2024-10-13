@@ -6,7 +6,7 @@
 ---
 
 ### ⚡ Quick Facts
-📍 Location: Based in Dhaka, Bangladesh — passionate about web development and innovation.
+📍 **Location:** Based in Dhaka, Bangladesh — passionate about web development and innovation.
 
 💼 **Profession:** Front-end developer with over 3 years of experience, currently expanding into back-end development.
 
