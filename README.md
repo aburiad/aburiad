@@ -6,20 +6,19 @@
 ---
 
 ### ⚡ Quick Facts
-- :zero: Student and developer living in Dhaka, Bangladesh.
-- :one: Created awesome web applications using the latest technologies.
-- :two: Currently working on **Popup-Notification-wp-plugin**.
-- :three: I’m currently learning upcoming JS features! 💙
+🌍 **Location**: Student and developer living in **Dhaka, Bangladesh**.  
+🚀 **Projects**: Created awesome web applications using the latest technologies.  
+🔧 **Current Work**: Currently working on **Popup-Notification-wp-plugin**.  
+📚 **Learning**: I’m currently learning **upcoming JS features!** 💙  
 
-> Hi, I'm Abu Riad, a passionate self-taught front-end web developer from Bangladesh. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+> Hi, I'm **Abu Riad**, a passionate self-taught front-end web developer from Bangladesh. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.  
 
 ---
-
 ### Skills & Projects
-- ✒️ **Site Template**: Working on ThemeForest since 2020.
-- ✒️ **Projects Completed**: 40+ projects. 💪
-- ✒️ **JavaScript & React**: Exploring new features. 🌟
-- ✒️ **WordPress**: Deep diving into development. 🌟
+🏗️ **Site Template**: Working on ThemeForest since 2020.  
+✅ **Projects Completed**: 40+ projects. 💪  
+⚛️ **JavaScript & React**: Exploring new features. 🌟  
+📖 **WordPress**: Deep diving into development. 🌟 
 
 ---
 
