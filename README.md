@@ -8,30 +8,30 @@
 ### ⚡ Quick Facts
 📍 Location: Based in Dhaka, Bangladesh — passionate about web development and innovation.
 
-💼 Profession: Front-end developer with over 3 years of experience, currently expanding into back-end development.
+💼 **Profession:** Front-end developer with over 3 years of experience, currently expanding into back-end development.
 
-🚀 Current Projects: Developing custom WordPress plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
+🚀 **Current:** Projects: Developing custom WordPress plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
 
-🛠️ Skills: Proficient in HTML, CSS, JavaScript, Sass, React, and gaining expertise in PHP and WordPress development.
+🛠️ **Skills:** Proficient in HTML, CSS, JavaScript, Sass, React, and gaining expertise in PHP and WordPress development.
 
-📖 Learning: Focusing on modern JavaScript features and back-end development to broaden my skill set.
+📖 **Learning:** Focusing on modern JavaScript features and back-end development to broaden my skill set.
 
-🌟 Availability: Open to freelance opportunities and collaborations.
+🌟 **Availability:** Open to freelance opportunities and collaborations.
 
 > Hi, I'm **Abu Riad**, a passionate self-taught front-end web developer from Bangladesh. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.  
 
 ---
 
 ### Skills & Projects
-💻 Front-end Development: Over 3 years of experience building responsive and dynamic websites using HTML, CSS, JavaScript, Sass, and React. Successfully contributed to ThemeForest templates.
+💻 **Front-end Development:** Over 3 years of experience building responsive and dynamic websites using HTML, CSS, JavaScript, Sass, and React. Successfully contributed to ThemeForest templates.
 
-📈 Projects Completed: Delivered 40+ web development projects, showcasing expertise in front-end technologies and web design.
+📈 **Projects Completed:** Delivered 40+ web development projects, showcasing expertise in front-end technologies and web design.
 
-⚙️ JavaScript & React: Continuously exploring and implementing advanced JavaScript frameworks, libraries, and modern React features to create seamless user experiences.
+⚙️ **JavaScript & React:** Continuously exploring and implementing advanced JavaScript frameworks, libraries, and modern React features to create seamless user experiences.
 
-🔨 Back-end Development: Currently expanding into back-end technologies, focusing on PHP and WordPress development, with a keen interest in building scalable solutions.
+🔨 **Back-end Development:** Currently expanding into back-end technologies, focusing on PHP and WordPress development, with a keen interest in building scalable solutions.
 
-🔌 WordPress Plugins: Developed custom plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
+🔌 **WordPress Plugins:** Developed custom plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
 
 
 
