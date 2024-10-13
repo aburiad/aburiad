@@ -12,7 +12,7 @@
 
 🚀 **Current:** Projects: Developing custom WordPress plugin, including the **Popup-Notification-wp-plugin**.
 
-🛠️ **Skills:** Proficient in HTML, CSS, JavaScript, Sass, React, and gaining expertise in PHP and WordPress development.
+🛠️ **Skills:** Proficient in **HTML**, **CSS**, **JavaScript**, **Sass**, **React**, and gaining expertise in **PHP** and **WordPress** development.
 
 📖 **Learning:** Focusing on modern JavaScript features and back-end development to broaden my skill set.
 
