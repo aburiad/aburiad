@@ -16,7 +16,7 @@ SKILL & PROJECTS
 - ✒️ JAVASCRIPT REACT EXPLORING :star_struck:
 - ✒️ WORDPRESS EXPLORING :star_struck:
   
-[![PHP](https://img.shields.io/badge/-PHP-%237C7C7C?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=605678)](https://php.net)
+[![PHP](https://img.shields.io/badge/PHP-%238899BE?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=%238899BE)](https://www.php.net)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress&logoColor=FFFFFF&labelColor=%2321759B)](https://wordpress.org)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
