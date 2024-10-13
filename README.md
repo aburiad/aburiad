@@ -1,21 +1,29 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+i+am+Abu+Riad;Available+for+Freelance+Hire!)](https://git.io/typing-svg)
-## 👋 Hi there, nice to meet you. *I'm Abu Riad*. Welcome to my GitHub!
+
+## 👋 Hi there, nice to meet you! 
+*I'm Abu Riad*. Welcome to my GitHub!
+
+---
+
 ### ⚡ Quick Facts
-- :zero: Student and developer living in the Dhaka Bangladesh.
-- :one: Created Awesome Web Application using latest technologies.
-- :two: Currently working on **Popup-Notification-wp-plugin**
-- :three: I’m currently learning Upcoming JS Features :blue_heart:
+- :zero: Student and developer living in Dhaka, Bangladesh.
+- :one: Created awesome web applications using the latest technologies.
+- :two: Currently working on **Popup-Notification-wp-plugin**.
+- :three: I’m currently learning upcoming JS features! 💙
 
-> HI , i'm Abu Riad, a passionate self-taught Front End web developer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+> Hi, I'm Abu Riad, a passionate self-taught front-end web developer from Bangladesh. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+---
 
-##
-SKILL & PROJECTS
-- ✒️ SITE TEMPLATE WORKING ON THEMEFOREST MARKET 2020 TO TILL NOW
-- ✒️ 40+ PROJECT DONE :muscle:		
-- ✒️ JAVASCRIPT REACT EXPLORING :star_struck:
-- ✒️ WORDPRESS EXPLORING :star_struck:
-  
+## Skills & Projects
+- ✒️ **Site Template**: Working on ThemeForest since 2020.
+- ✒️ **Projects Completed**: 40+ projects. 💪
+- ✒️ **JavaScript & React**: Exploring new features. 🌟
+- ✒️ **WordPress**: Deep diving into development. 🌟
+
+---
+
+## Technologies & Tools
 [![PHP](https://img.shields.io/badge/PHP-%238899BE?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=%238899BE)](https://www.php.net)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress&logoColor=FFFFFF&labelColor=%2321759B)](https://wordpress.org)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -27,17 +35,20 @@ SKILL & PROJECTS
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
+---
+
 ## Activities
+![Abu Riad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aburiad&show_icons=true&theme=dracula)
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=aburiad&show_icons=true&theme=dracula)
+---
 
-##
-💬 Ask me about new idea in web development, I am happy to help
+💬 **Ask me about new ideas in web development; I am happy to help!**
 
 ## Message Me
 [Facebook](https://www.facebook.com/ahsanriad.engineer/)
 
- 
+---
+
 <!---
 aburiad/aburiad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
