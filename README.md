@@ -15,7 +15,7 @@
 
 ---
 
-## Skills & Projects
+### Skills & Projects
 - ✒️ **Site Template**: Working on ThemeForest since 2020.
 - ✒️ **Projects Completed**: 40+ projects. 💪
 - ✒️ **JavaScript & React**: Exploring new features. 🌟
@@ -23,7 +23,7 @@
 
 ---
 
-## Technologies & Tools
+### Technologies & Tools
 [![PHP](https://img.shields.io/badge/PHP-%238899BE?style=flat-square&logo=php&logoColor=FFFFFF&labelColor=%238899BE)](https://www.php.net)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B?style=flat-square&logo=wordpress&logoColor=FFFFFF&labelColor=%2321759B)](https://wordpress.org)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -37,7 +37,7 @@
 
 ---
 
-## Activities
+### Activities
 ![Abu Riad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aburiad&show_icons=true&theme=dracula)
 
 ---
