@@ -50,12 +50,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 ---
-
 💬 **Ask me about new ideas in web development; I am happy to help!**
-
-## Message Me
-[Facebook](https://www.facebook.com/ahsanriad.engineer/)
-
 <!---
 aburiad/aburiad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
