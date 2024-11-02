@@ -51,11 +51,6 @@
 
 ---
 
-### Activities
-![Abu Riad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aburiad&show_icons=true&theme=dracula)
-
----
-
 💬 **Ask me about new ideas in web development; I am happy to help!**
 
 ## Message Me
