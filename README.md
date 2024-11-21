@@ -19,15 +19,13 @@
 🔌 **WordPress Plugins:** Developed custom plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
 
 
-### Projects
+### 📚 WordPress Projects
 
 | Project Name                                     | Description                                                                                   | Availability                        |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------|
-| [WordPress Loadify Preloader](https://wordpress.org/plugins/loadify-preloader/) | A WordPress plugin to add customizable preloaders to your website for improved user experience. | Available on WordPress.org         |
-| [Quick Insights React WP Plugin](https://github.com/aburiad/Quick-Insights-React-wp-plugin) | A React-based WordPress plugin for displaying website performance and status information in the admin dashboard. | Available on GitHub                |
-| [My Books CRUD WP Plugin](https://github.com/aburiad/my-books-wp-plugin)       | A WordPress plugin to manage books using CRUD functionality for enhanced content management.   | Available on GitHub                |
-
-
+| [Loadify Preloader](https://wordpress.org/plugins/loadify-preloader/) | A WordPress plugin to add customizable preloaders to your website for improved user experience. | Available on WordPress.org         |
+| [React Quick Insights](https://github.com/aburiad/Quick-Insights-React-wp-plugin) | A React-based WordPress plugin for displaying website performance and status information in the admin dashboard. | Available on GitHub                |
+| [My Books](https://github.com/aburiad/my-books-wp-plugin)       | A WordPress plugin to manage books using CRUD functionality for enhanced content management.   | Available on GitHub                |
 
 <!---
 aburiad/aburiad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
