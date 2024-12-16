@@ -19,7 +19,7 @@
 🔌 **WordPress Plugins:** Developed custom plugins, including the Popup-Notification-wp-plugin and Loadify-Preloader-wp-plugin.
 
 
-### 📚 WordPress Projects
+### 📚 WordPress Plugins
 
 | Project Name                                     | Description                                                                                   | Availability                        |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------|
