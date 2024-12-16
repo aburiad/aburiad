@@ -24,7 +24,7 @@
 | Project Name                                     | Description                                                                                   | Availability                        |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------|
 | [Loadify Preloader](https://wordpress.org/plugins/loadify-preloader/) | A WordPress plugin to add customizable preloaders to your website for improved user experience. | Available on WordPress.org         |
-| [React Quick Insights](https://github.com/aburiad/Quick-Insights-React-wp-plugin) | A React-based WordPress plugin for displaying website performance and status information in the admin dashboard. | Available on GitHub                |
+| [React Quick Insights](https://wordpress.org/plugins/quick-insights/) | A React-based WordPress plugin for displaying website performance and status information in the admin dashboard. | Available on WordPress.org                |
 | [My Books](https://github.com/aburiad/my-books-wp-plugin)       | A WordPress plugin to manage books using CRUD functionality for enhanced content management.   | Available on GitHub                |
 
 <!---
